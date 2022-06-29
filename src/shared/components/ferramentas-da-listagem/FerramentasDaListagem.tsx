@@ -31,8 +31,7 @@ export const FerramentasDaListagem: React.FC<IFerramentasDaListagemProps> = ({
       alignItems="center"
       height={theme.spacing(5)}
       component={Paper}
-    >
-      <Icon >search</Icon>
+    >     
       {mostrarInuputBusca && (
         <TextField
           size='small'

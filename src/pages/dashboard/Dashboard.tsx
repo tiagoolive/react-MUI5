@@ -11,7 +11,7 @@ export const Dashboard: React.FC = () => {
         <FerramentasDeDetalhe mostrarBotaoSalvarEFecharCarregando />
       )} 
     >
-      Testando
+      
     </LayoutBaseDePagina>
     
   )

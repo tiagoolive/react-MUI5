@@ -102,5 +102,15 @@
       "cidadeId": "1",
       "id": 19
     }
+  ],
+  "cidades": [
+    {
+      "nome": "Valparaíso de Goiás",
+      "id": 1
+    },
+    {
+      "nome": "Brasília",
+      "id": 2
+    }
   ]
 }

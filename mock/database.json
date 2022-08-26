@@ -3,7 +3,7 @@
     {
       "nomeCompleto": "João Jorge",
       "email": "JoaoJorge@gmail.com",
-      "cidadeId": 1,
+      "cidadeId": 3,
       "id": 2
     },
     {
@@ -111,6 +111,30 @@
     {
       "nome": "Brasília",
       "id": 2
+    },
+    {
+      "nome": "Goiânia ",
+      "id": 3
+    },
+    {
+      "nome": "Luziânia ",
+      "id": 4
+    },
+    {
+      "nome": "Cidade Ocidental",
+      "id": 5
+    },
+    {
+      "nome": "Aguas Lindas ",
+      "id": 6
+    },
+    {
+      "nome": "São Paulo",
+      "id": 7
+    },
+    {
+      "nome": "Campinas",
+      "id": 8
     }
   ]
 }

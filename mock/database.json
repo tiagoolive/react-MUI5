@@ -136,5 +136,8 @@
       "nome": "Campinas",
       "id": 8
     }
-  ]
+  ],
+  "auth": {
+    "acessToken": "aaaaaaaaaaa.bbbbbbbbb.ccccccccc"
+  }
 }

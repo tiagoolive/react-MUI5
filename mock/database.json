@@ -138,6 +138,6 @@
     }
   ],
   "auth": {
-    "acessToken": "aaaaaaaaaaa.bbbbbbbbb.ccccccccc"
+    "accessToken": "aaaaaaaaaaa.bbbbbbbbb.ccccccccc"
   }
 }
